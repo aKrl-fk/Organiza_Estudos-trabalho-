@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1789574570630,
+      "tag": "0000_create_organiza_estudos",
+      "breakpoints": true
+    }
+  ]
+}
